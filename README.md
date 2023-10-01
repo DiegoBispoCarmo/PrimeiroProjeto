@@ -2,9 +2,13 @@
 
 <p align="center">
 Meu primeiro projeto de aprendizado básico, e contato com o front-end, com funções de Dark e Light page, seguindo os passos da Rocketseat. <br/>
+
+</p>
+<p align="center">
+Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
+<a href="https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito">Estude esse projeto em formato de vídeo clicando aqui.</a>
 </p>
 
-##
 <p align="center">
   <img alt="projeto" src=".github/capa.png" width="100%">
 </p>
