@@ -1,7 +1,7 @@
 <h1 align="center">💫Meu Primeiro Projeto </h1>
 
 <p align="center">
-Meu primeiro projeto de aprendizado básico, com os passos da Rocketseat. <br/>
+Meu primeiro projeto de aprendizado básico, e contato com o front-end, com os passos da Rocketseat. <br/>
 </p>
 
 ##
