@@ -6,21 +6,18 @@ Meu primeiro projeto de aprendizado básico, e contato com o front-end, com fun�
 </p>
 <p align="center">
 Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
-<a href="https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito">Estude esse projeto em formato de vídeo clicando aqui.</a>
+<a href="https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito" target="_blanck">Estude esse projeto em formato de vídeo clicando aqui.</a>
 </p>
 
 <p align="center">
   <img alt="projeto" src=".github/capa.png" width="100%">
 </p>
 
-## 💫	 Tecnologias
+## 💫 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- HTML 
-- CSS 
+- HTML
+- CSS
 - JavaScript
 - Figma
-
-
-
